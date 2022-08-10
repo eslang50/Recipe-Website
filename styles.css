@@ -42,3 +42,9 @@ figcaption {
   border-style: solid;
 }
 
+.image-border:hover {
+  -moz-box-shadow: 0 0 10px #ccc;
+  opacity: 0.8;
+  transition: 0.5s;
+  box-shadow: 0 0 20px #ccc;
+}
