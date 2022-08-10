@@ -1,0 +1,44 @@
+body {
+  background-color: aliceblue;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+span {
+  flex-basis: 33%;
+}
+
+h1 {
+  background-color:rgb(197, 81, 81);
+  color: antiquewhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 10px;
+  box-shadow: 0 1px 3px #333;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+}
+
+figcaption {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  padding-top: 10px;
+  color: #333;
+}
+
+.image-border {
+  border: #333;
+  border-style: solid;
+}
+
